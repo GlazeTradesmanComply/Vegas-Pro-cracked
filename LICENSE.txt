@@ -17,4 +17,4 @@ Vegas Pro Edition. timeline-based video editing, HDR, 360 VR, nested timelines, 
 
 
 TAGS
-vegas, hdr-video-editing                                
+vegas, hdr-video-editing                                 
